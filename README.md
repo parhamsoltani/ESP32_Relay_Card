@@ -1,5 +1,5 @@
 # 20_Channel_Relay_Card
-2-layer PCB document of a WiFi ESP32 Module with 20 channel Relay card. 
+2-Layer PCB document of a 20 Channel Relay Card controlled by an ESP32 reciever using WiFi. 
 
 ![Relay_PCB](https://github.com/parhamsoltani/PLC_Relay_Board/assets/70743729/4479c6f5-a39c-47c4-a7e8-5d527b544334)
 
