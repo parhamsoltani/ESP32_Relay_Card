@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=POWER Member=C1
+Removed Member From Class: ClassName=POWER Member=D6
+Removed Member From Class: ClassName=ESP12E Member=P1
+Removed Member From Class: ClassName=ESP12E Member=R2
+Removed Member From Class: ClassName=ESP12E Member=R11
+Removed Member From Class: ClassName=MCU_G0 Member=U3
+Added Member To Class: ClassName=POWER Member=Component C6 1000uF/16V
+Added Member To Class: ClassName=POWER Member=Component D3 SS14
+Added Member To Class: ClassName=ESP12E Member=Component P3 Header 2
+Added Member To Class: ClassName=ESP12E Member=Component R8 470R
+Added Member To Class: ClassName=MCU_G0 Member=Component U1 STM32G030K6T6

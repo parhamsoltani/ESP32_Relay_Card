@@ -1,0 +1,112 @@
+Removed Member From Class: ClassName=ESP12E Member=C?
+Removed Member From Class: ClassName=MCU_G0 Member=C?
+Removed Member From Class: ClassName=ESP12E Member=D?
+Removed Member From Class: ClassName=RECEIVER_DORJI7020 Member=D?
+Removed Member From Class: ClassName=RELAY Member=D?
+Removed Member From Class: ClassName=MCU_G0 Member=L?
+Removed Member From Class: ClassName=RECEIVER_DORJI7020 Member=L?
+Removed Member From Class: ClassName=MCU_G0 Member=P?
+Removed Member From Class: ClassName=RELAY Member=P?
+Removed Member From Class: ClassName=MCU_G0 Member=R?
+Removed Member From Class: ClassName=POWER Member=R?
+Removed Member From Class: ClassName=RECEIVER_DORJI7020 Member=R?
+Removed Member From Class: ClassName=RELAY Member=R?
+Removed Member From Class: ClassName=POWER Member=U?
+Removed Member From Class: ClassName=RECEIVER_DORJI7020 Member=U?
+Removed Member From Class: ClassName=RELAY Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=IC ? NewDesignator=IC 1
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=Osc? NewDesignator=Osc1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetIC ?_18 New Net Name=NetIC 1_18
+Change Net Name : Old Net Name=NetK?_1 New Net Name=NetK1_1
+Change Net Name : Old Net Name=NetK?_2 New Net Name=NetK1_2
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK1_3
+Change Net Name : Old Net Name=NetOsc?_1 New Net Name=NetOsc1_1
+Change Net Name : Old Net Name=NetQ?_B New Net Name=NetQ1_B
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR5_2
+Added Member To Class: ClassName=MCU_G0 Member=Component C1 100nF
+Added Member To Class: ClassName=MCU_G0 Member=Component C2 47uF
+Added Member To Class: ClassName=MCU_G0 Member=Component C3 100nF
+Added Member To Class: ClassName=POWER Member=Component C4 100nF
+Added Member To Class: ClassName=POWER Member=Component C5 1000uF/25V
+Added Member To Class: ClassName=POWER Member=Component C7 100nF
+Added Member To Class: ClassName=POWER Member=Component C8 10uF
+Added Member To Class: ClassName=POWER Member=Component C9 10uF
+Added Member To Class: ClassName=ESP12E Member=Component C10 100nF
+Added Member To Class: ClassName=POWER Member=Component D1 Diode Bridge
+Added Member To Class: ClassName=POWER Member=Component D2 GREEN
+Added Member To Class: ClassName=POWER Member=Component D4 GREEN
+Added Member To Class: ClassName=RELAY Member=Component D5 1N4148
+Added Member To Class: ClassName=ESP12E Member=Component D6 LED/3MIL/RED
+Added Member To Class: ClassName=RECEIVER_DORJI7020 Member=Component D7 Green
+Added Member To Class: ClassName=RECEIVER_DORJI7020 Member=Component D8 Red
+Added Member To Class: ClassName=MCU_G0 Member=Component L1 Ferrite bead
+Added Member To Class: ClassName=RECEIVER_DORJI7020 Member=Component L3 Ferrite bead
+Added Member To Class: ClassName=MCU_G0 Member=Component P1 Header 5
+Added Member To Class: ClassName=RELAY Member=Component P2 kf301/3pin
+Added Member To Class: ClassName=MCU_G0 Member=Component R1 10k
+Added Member To Class: ClassName=MCU_G0 Member=Component R2 (NA)10k
+Added Member To Class: ClassName=POWER Member=Component R3 330R
+Added Member To Class: ClassName=POWER Member=Component R4 1k
+Added Member To Class: ClassName=RELAY Member=Component R5 470R
+Added Member To Class: ClassName=RELAY Member=Component R6 10R
+Added Member To Class: ClassName=ESP12E Member=Component R7 10k
+Added Member To Class: ClassName=ESP12E Member=Component R9 10k
+Added Member To Class: ClassName=RECEIVER_DORJI7020 Member=Component R10 330R
+Added Member To Class: ClassName=RECEIVER_DORJI7020 Member=Component R11 330R
+Added Member To Class: ClassName=RECEIVER_DORJI7020 Member=Component R12 4.8K
+Added Member To Class: ClassName=RECEIVER_DORJI7020 Member=Component R13 10K
+Added Member To Class: ClassName=POWER Member=Component U2 LM2576HVS-5v
+Added Member To Class: ClassName=POWER Member=Component U3 RT9166A-33GX
+Added Member To Class: ClassName=RELAY Member=Component U4 ON3131(NA)
+Added Member To Class: ClassName=RECEIVER_DORJI7020 Member=Component U5 DRF7020_200MW

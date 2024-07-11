@@ -1,0 +1,909 @@
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0805 - CAP
+Add Component: Footprint Not Found Rad.1/.2-SMALL 8*16 - duplicate
+Add Component: Footprint Not Found Rad.1/.2-SMALL 8*16
+Add Component: Footprint Not Found 0805 - CAP
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0805 - CAP
+Add Component: Footprint Not Found Bridge
+Add Component: Footprint Not Found 0805AK_green
+Add Component: Footprint Not Found ss14 / sma
+Add Component: Footprint Not Found 0603 -LED_GREEN - duplicate
+Added Component: Designator=D5(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Led_3mil -2 - duplicate
+Add Component: Footprint Not Found 0603 -LED_GREEN - duplicate
+Add Component: Footprint Not Found 0603 -LED_GREEN - duplicate
+Added Component: Designator=D9(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D10(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D11(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D12(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D13(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D14(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D15(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D16(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D17(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D18(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D19(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D20(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D21(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D22(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D23(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D24(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D25(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D26(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D27(sod123)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found ESP8266 ESP-12-E
+Added Component: Designator=J?(DC Power Jack 1)
+Add component (AddParameter): Name = "Adding Date"; Value = "10/21/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Company"; Value = "Personal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Project Name"; Value = "Laser"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found relay5_childern
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found IND_SMD12X12
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found XTAL_5X7
+Add Component: Footprint Not Found HDR1X5_2mm_small
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Added Component: Designator=P3(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found Blue Connector 1*3 -kf301
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0603 - RESISTOR
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found 0805/resistor
+Add Component: Footprint Not Found LQFP32
+Add Component: Footprint Not Found lm2576/adj/TS5B_N
+Add Component: Footprint Not Found SOT89 (RT9166)
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found DRF7020D13_MODULE_200MW
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Component: Footprint Not Found OPTO_COUPLER
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-A
+Add Pin To Net: Unknown Pin: Pin D5-K
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D9-K
+Add Pin To Net: Unknown Pin: Pin D10-K
+Add Pin To Net: Unknown Pin: Pin D11-K
+Add Pin To Net: Unknown Pin: Pin D12-K
+Add Pin To Net: Unknown Pin: Pin D13-K
+Add Pin To Net: Unknown Pin: Pin D14-K
+Add Pin To Net: Unknown Pin: Pin D15-K
+Add Pin To Net: Unknown Pin: Pin D16-K
+Add Pin To Net: Unknown Pin: Pin D17-K
+Add Pin To Net: Unknown Pin: Pin D18-K
+Add Pin To Net: Unknown Pin: Pin D19-K
+Add Pin To Net: Unknown Pin: Pin D20-K
+Add Pin To Net: Unknown Pin: Pin D21-K
+Add Pin To Net: Unknown Pin: Pin D22-K
+Add Pin To Net: Unknown Pin: Pin D23-K
+Add Pin To Net: Unknown Pin: Pin D24-K
+Add Pin To Net: Unknown Pin: Pin D25-K
+Add Pin To Net: Unknown Pin: Pin D26-K
+Add Pin To Net: Unknown Pin: Pin D27-K
+Add Pin To Net: Unknown Pin: Pin IC 1-3
+Add Pin To Net: Unknown Pin: Pin IC 1-8
+Add Pin To Net: Unknown Pin: Pin IC 1-15
+Add Pin To Net: Unknown Pin: Pin IC 1-16
+Add Pin To Net: Unknown Pin: Pin IC 1-18
+Add Pin To Net: Unknown Pin: Pin IC 1-21
+Add Pin To Net: Unknown Pin: Pin IC 1-22
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Add Pin To Net: Unknown Pin: Pin K1-4
+Add Pin To Net: Unknown Pin: Pin K1-5
+Add Pin To Net: Unknown Pin: Pin K2-5
+Add Pin To Net: Unknown Pin: Pin K3-5
+Add Pin To Net: Unknown Pin: Pin K4-5
+Add Pin To Net: Unknown Pin: Pin K5-5
+Add Pin To Net: Unknown Pin: Pin K6-5
+Add Pin To Net: Unknown Pin: Pin K7-5
+Add Pin To Net: Unknown Pin: Pin K8-5
+Add Pin To Net: Unknown Pin: Pin K9-5
+Add Pin To Net: Unknown Pin: Pin K10-5
+Add Pin To Net: Unknown Pin: Pin K11-5
+Add Pin To Net: Unknown Pin: Pin K12-5
+Add Pin To Net: Unknown Pin: Pin K13-5
+Add Pin To Net: Unknown Pin: Pin K14-5
+Add Pin To Net: Unknown Pin: Pin K15-5
+Add Pin To Net: Unknown Pin: Pin K16-5
+Add Pin To Net: Unknown Pin: Pin K17-5
+Add Pin To Net: Unknown Pin: Pin K18-5
+Add Pin To Net: Unknown Pin: Pin K19-5
+Add Pin To Net: Unknown Pin: Pin K20-5
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin Osc1-2
+Add Pin To Net: Unknown Pin: Pin Osc1-4
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-5
+Added Pin To Net: NetName=NetIC 1_18 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R23-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R26-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Pin To Net: Unknown Pin: Pin R30-1
+Add Pin To Net: Unknown Pin: Pin R30-2
+Add Pin To Net: Unknown Pin: Pin R31-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R32-1
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Pin To Net: Unknown Pin: Pin R34-1
+Add Pin To Net: Unknown Pin: Pin R34-2
+Add Pin To Net: Unknown Pin: Pin R35-1
+Add Pin To Net: Unknown Pin: Pin R35-2
+Add Pin To Net: Unknown Pin: Pin R36-1
+Add Pin To Net: Unknown Pin: Pin R36-2
+Add Pin To Net: Unknown Pin: Pin R37-1
+Add Pin To Net: Unknown Pin: Pin R37-2
+Add Pin To Net: Unknown Pin: Pin R38-1
+Add Pin To Net: Unknown Pin: Pin R38-2
+Add Pin To Net: Unknown Pin: Pin R39-1
+Add Pin To Net: Unknown Pin: Pin R39-2
+Add Pin To Net: Unknown Pin: Pin R40-1
+Add Pin To Net: Unknown Pin: Pin R40-2
+Add Pin To Net: Unknown Pin: Pin R41-1
+Add Pin To Net: Unknown Pin: Pin R41-2
+Add Pin To Net: Unknown Pin: Pin R42-1
+Add Pin To Net: Unknown Pin: Pin R42-2
+Add Pin To Net: Unknown Pin: Pin R43-1
+Add Pin To Net: Unknown Pin: Pin R43-2
+Add Pin To Net: Unknown Pin: Pin R44-1
+Add Pin To Net: Unknown Pin: Pin R44-2
+Add Pin To Net: Unknown Pin: Pin R45-1
+Add Pin To Net: Unknown Pin: Pin R45-2
+Add Pin To Net: Unknown Pin: Pin R46-1
+Add Pin To Net: Unknown Pin: Pin R46-2
+Add Pin To Net: Unknown Pin: Pin R47-1
+Add Pin To Net: Unknown Pin: Pin R47-2
+Add Pin To Net: Unknown Pin: Pin R48-1
+Add Pin To Net: Unknown Pin: Pin R48-2
+Add Pin To Net: Unknown Pin: Pin R49-1
+Add Pin To Net: Unknown Pin: Pin R49-2
+Add Pin To Net: Unknown Pin: Pin R50-1
+Add Pin To Net: Unknown Pin: Pin R50-2
+Add Pin To Net: Unknown Pin: Pin R51-1
+Add Pin To Net: Unknown Pin: Pin R51-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-25
+Add Pin To Net: Unknown Pin: Pin U1-26
+Add Pin To Net: Unknown Pin: Pin U1-27
+Add Pin To Net: Unknown Pin: Pin U1-28
+Add Pin To Net: Unknown Pin: Pin U1-29
+Add Pin To Net: Unknown Pin: Pin U1-30
+Add Pin To Net: Unknown Pin: Pin U1-31
+Add Pin To Net: Unknown Pin: Pin U1-32
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U15-1
+Add Pin To Net: Unknown Pin: Pin U15-2
+Add Pin To Net: Unknown Pin: Pin U16-1
+Add Pin To Net: Unknown Pin: Pin U16-2
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U18-1
+Add Pin To Net: Unknown Pin: Pin U18-2
+Add Pin To Net: Unknown Pin: Pin U19-1
+Add Pin To Net: Unknown Pin: Pin U19-2
+Add Pin To Net: Unknown Pin: Pin U20-1
+Add Pin To Net: Unknown Pin: Pin U20-2
+Add Pin To Net: Unknown Pin: Pin U21-1
+Add Pin To Net: Unknown Pin: Pin U21-2
+Add Pin To Net: Unknown Pin: Pin U22-1
+Add Pin To Net: Unknown Pin: Pin U22-2
+Add Pin To Net: Unknown Pin: Pin U23-1
+Add Pin To Net: Unknown Pin: Pin U23-2
+Add Pin To Net: Unknown Pin: Pin U24-1
+Add Pin To Net: Unknown Pin: Pin U24-2
+Change Net Name : Old Net Name=12VAC/VDC/N New Net Name=UART1_TX_MCU_DRF_RX
+Change Net Name : Old Net Name=12VAC/VDC/P New Net Name=UART1_RX_MCU_DRF_TX
+Change Net Name : Old Net Name=ADC New Net Name=UART1_RX_DRF
+Change Net Name : Old Net Name=ADC EX New Net Name=RELAY20
+Change Net Name : Old Net Name=BUZZER New Net Name=RELAY19
+Change Net Name : Old Net Name=DS18B20 New Net Name=RELAY18
+Change Net Name : Old Net Name=EN New Net Name=RELAY17
+Change Net Name : Old Net Name=GPIO0 New Net Name=RELAY16
+Change Net Name : Old Net Name=GPIO1 New Net Name=RELAY15
+Change Net Name : Old Net Name=GPIO2 New Net Name=RELAY14
+Change Net Name : Old Net Name=GPIO3 New Net Name=RELAY13
+Change Net Name : Old Net Name=GPIO4 New Net Name=RELAY12
+Change Net Name : Old Net Name=GPIO5 New Net Name=RELAY11
+Change Net Name : Old Net Name=GPIO10 New Net Name=RELAY10
+Change Net Name : Old Net Name=GPIO12 New Net Name=RELAY9
+Change Net Name : Old Net Name=GPIO13 New Net Name=RELAY8
+Change Net Name : Old Net Name=GPIO14 New Net Name=RELAY7
+Change Net Name : Old Net Name=GPIO15 New Net Name=RELAY6
+Change Net Name : Old Net Name=GPIO16 New Net Name=RELAY5
+Change Net Name : Old Net Name=NetC6_2 New Net Name=RELAY4
+Change Net Name : Old Net Name=NetC8_2 New Net Name=RELAY3
+Change Net Name : Old Net Name=NetC9_1 New Net Name=RELAY2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=RELAY1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=R2_O
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetR51_2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetR50_2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetR48_2
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetR47_2
+Change Net Name : Old Net Name=NetF1_1 New Net Name=NetR46_2
+Change Net Name : Old Net Name=NetFLASH1_1 New Net Name=NetR45_2
+Change Net Name : Old Net Name=NetLS1_2A New Net Name=NetR44_2
+Change Net Name : Old Net Name=Netp1_1 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NetP2_1 New Net Name=NetR42_2
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetR41_2
+Change Net Name : Old Net Name=NetP2_3 New Net Name=NetR40_2
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetP3_3 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetQ1_B New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetQ2_B New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetRELAY1_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=RELAY New Net Name=NetR28_2
+Change Net Name : Old Net Name=RESET_FACTORY New Net Name=NetR27_2
+Change Net Name : Old Net Name=RF_DATA New Net Name=NetR26_2
+Change Net Name : Old Net Name=RFID-MISO New Net Name=NetR25_2
+Change Net Name : Old Net Name=RFID-MOSI New Net Name=NetR24_2
+Change Net Name : Old Net Name=RFID-SCK New Net Name=NetR23_2
+Change Net Name : Old Net Name=SPI_CLK New Net Name=NetR22_2
+Change Net Name : Old Net Name=SPI_INT New Net Name=NetR21_2
+Change Net Name : Old Net Name=SPI_MISO New Net Name=NetR20_2
+Change Net Name : Old Net Name=SPI_MOSI New Net Name=NetR19_2
+Change Net Name : Old Net Name=VD+ New Net Name=NetR18_2
+Change Net Name : Old Net Name=VD- New Net Name=NetR17_2
+Change Net Name : Old Net Name=WIFI_LED New Net Name=NetR16_2
+Add Net: Net with name "3.3V" already exists
+Added Net: Name=8 MHZ
+Added Net: Name=AUX
+Added Net: Name=GND-12V
+Added Net: Name=GND_5V
+Added Net: Name=GND_DRF
+Added Net: Name=INPUT_GND_ POWER
+Added Pin To Net: NetName=INPUT VCC POWER Pin=J?-1
+Added Pin To Net: NetName=INPUT VCC POWER Pin=J?-1
+Added Pin To Net: NetName=INPUT VCC POWER Pin=J?-1
+Added Pin To Net: NetName=INPUT VCC POWER Pin=J?-1
+Added Pin To Net: NetName=INPUT VCC POWER Pin=J?-1
+Added Pin To Net: NetName=INPUT VCC POWER Pin=J?-1
+Added Pin To Net: NetName=INPUT VCC POWER Pin=J?-1
+Added Net: Name=INPUT VCC POWER
+Added Net: Name=NetD6_2
+Added Net: Name=NetD7_2
+Added Net: Name=NetD8_2
+Added Net: Name=NetD9_A
+Added Net: Name=NetD10_A
+Added Net: Name=NetD11_A
+Added Net: Name=NetD12_A
+Added Net: Name=NetD13_A
+Added Net: Name=NetD14_A
+Added Net: Name=NetD15_A
+Added Net: Name=NetD16_A
+Added Net: Name=NetD17_A
+Added Net: Name=NetD18_A
+Added Net: Name=NetD19_A
+Added Net: Name=NetD20_A
+Added Net: Name=NetD21_A
+Added Net: Name=NetD22_A
+Added Net: Name=NetD23_A
+Added Net: Name=NetD24_A
+Added Net: Name=NetD25_A
+Added Net: Name=NetD26_A
+Added Net: Name=NetD27_A
+Added Net: Name=NetK1_1
+Added Net: Name=NetK1_2
+Added Net: Name=NetK1_3
+Added Net: Name=NetK2_1
+Added Net: Name=NetK2_2
+Added Net: Name=NetK2_3
+Added Net: Name=NetK3_1
+Added Net: Name=NetK3_2
+Added Net: Name=NetK3_3
+Added Net: Name=NetK4_1
+Added Net: Name=NetK4_2
+Added Net: Name=NetK4_3
+Added Net: Name=NetK5_1
+Added Net: Name=NetK5_2
+Added Net: Name=NetK5_3
+Added Net: Name=NetK6_1
+Added Net: Name=NetK6_2
+Added Net: Name=NetK6_3
+Added Net: Name=NetK7_1
+Added Net: Name=NetK7_2
+Added Net: Name=NetK7_3
+Added Net: Name=NetK8_1
+Added Net: Name=NetK8_2
+Added Net: Name=NetK8_3
+Added Net: Name=NetK9_1
+Added Net: Name=NetK9_2
+Added Net: Name=NetK9_3
+Added Net: Name=NetK10_1
+Added Net: Name=NetK10_2
+Added Net: Name=NetK10_3
+Added Net: Name=NetK11_1
+Added Net: Name=NetK11_2
+Added Net: Name=NetK11_3
+Added Net: Name=NetK12_1
+Added Net: Name=NetK12_2
+Added Net: Name=NetK12_3
+Added Net: Name=NetK13_1
+Added Net: Name=NetK13_2
+Added Net: Name=NetK13_3
+Added Net: Name=NetK14_1
+Added Net: Name=NetK14_2
+Added Net: Name=NetK14_3
+Added Net: Name=NetK15_1
+Added Net: Name=NetK15_2
+Added Net: Name=NetK15_3
+Added Net: Name=NetK16_1
+Added Net: Name=NetK16_2
+Added Net: Name=NetK16_3
+Added Net: Name=NetK17_1
+Added Net: Name=NetK17_2
+Added Net: Name=NetK17_3
+Added Net: Name=NetK18_1
+Added Net: Name=NetK18_2
+Added Net: Name=NetK18_3
+Added Net: Name=NetK19_1
+Added Net: Name=NetK19_2
+Added Net: Name=NetK19_3
+Added Net: Name=NetK20_1
+Added Net: Name=NetK20_2
+Added Net: Name=NetK20_3
+Added Net: Name=NetOsc1_1
+Added Net: Name=NetR5_2
+Added Net: Name=NetR6_2
+Added Net: Name=NetR14_2
+Added Net: Name=NetR15_2
+Change Class Name : Old Net Name=IOT&ESP.V1 New Net Name=U_MCU_G0
+Added Class: Name=U_ESP12E
+Added Class: Name=U_POWER
+Added Class: Name=U_RECEIVER_DORJI7020
+Added Class: Name=U_RELAY1
+Added Class: Name=U_RELAY2
+Added Class: Name=U_RELAY3
+Added Class: Name=U_RELAY4
+Added Class: Name=U_RELAY5
+Added Class: Name=U_RELAY6
+Added Class: Name=U_RELAY7
+Added Class: Name=U_RELAY8
+Added Class: Name=U_RELAY9
+Added Class: Name=U_RELAY10
+Added Class: Name=U_RELAY11
+Added Class: Name=U_RELAY12
+Added Class: Name=U_RELAY13
+Added Class: Name=U_RELAY14
+Added Class: Name=U_RELAY15
+Added Class: Name=U_RELAY16
+Added Class: Name=U_RELAY17
+Added Class: Name=U_RELAY18
+Added Class: Name=U_RELAY19
+Added Class: Name=U_RELAY20
+Add Class Member: Failed to add class member : Component C1 100nF
+Add Class Member: Failed to add class member : Component C2 47uF
+Add Class Member: Failed to add class member : Component C3 100nF
+Add Class Member: Failed to add class member : Component L1 Ferrite bead
+Add Class Member: Failed to add class member : Component Osc1 (NA) CRYSTAL 8MHZ
+Add Class Member: Failed to add class member : Component P1 Header 5
+Add Class Member: Failed to add class member : Component R1 10k
+Add Class Member: Failed to add class member : Component R2 (NA)10k
+Add Class Member: Failed to add class member : Component U1 STM32G030K6T6
+Added Room: Name=U_ESP12E
+Added Room: Name=U_MCU_G0
+Added Room: Name=U_POWER
+Added Room: Name=U_RECEIVER_DORJI7020
+Added Room: Name=U_RELAY1
+Added Room: Name=U_RELAY2
+Added Room: Name=U_RELAY3
+Added Room: Name=U_RELAY4
+Added Room: Name=U_RELAY5
+Added Room: Name=U_RELAY6
+Added Room: Name=U_RELAY7
+Added Room: Name=U_RELAY8
+Added Room: Name=U_RELAY9
+Added Room: Name=U_RELAY10
+Added Room: Name=U_RELAY11
+Added Room: Name=U_RELAY12
+Added Room: Name=U_RELAY13
+Added Room: Name=U_RELAY14
+Added Room: Name=U_RELAY15
+Added Room: Name=U_RELAY16
+Added Room: Name=U_RELAY17
+Added Room: Name=U_RELAY18
+Added Room: Name=U_RELAY19
+Added Room: Name=U_RELAY20
